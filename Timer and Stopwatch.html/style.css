@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient( to right,rgb(0, 0, 0),rgb(11, 65, 122));
+    color: aliceblue; 
+
+}
+
+
+.stopwatch {
+    text-align: center;
+  }
+  
+  .stopwatch h1 {
+    font-size: 36px;
+  }
+  
+  .stopwatch p {
+    font-size: 48px;
+    font-weight: bold;
+  } 
+   p:hover{
+   color: rgb(255, 21, 0); 
+   font-size: 50px; 
+  
+  }
+  
+  .stopwatch button {
+    font-size: 24px;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color: #71d8d8;
+    color: rgb(18, 2, 2);
+    border: none;
+    border-radius:  20px;
+    cursor: pointer;
+  }
+  
+  .stopwatch button:hover {
+    background-color: #3ef905; 
+    color: rgb(0, 8, 0); 
+    box
+  }
+  
